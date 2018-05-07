@@ -24,7 +24,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-
 import static com.simpleapps9.staffonechristian.nevergiveup.ConstantVariable.KEY_DOC_AUTHOR;
 import static com.simpleapps9.staffonechristian.nevergiveup.ConstantVariable.KEY_DOC_CATEGORY;
 import static com.simpleapps9.staffonechristian.nevergiveup.ConstantVariable.KEY_DOC_COLLECTION_OF_QUOTE;
