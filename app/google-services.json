@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "561235653095",
+    "firebase_url": "https://quotes-563d2.firebaseio.com",
+    "project_id": "quotes-563d2",
+    "storage_bucket": "quotes-563d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561235653095:android:a863b92c2d34f21b",
+        "android_client_info": {
+          "package_name": "com.example.staffonechristian.quotesmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561235653095-qdchkldds1qfp8orouobi3o3id9ro26e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.staffonechristian.quotesmaster",
+            "certificate_hash": "ce1ce6e416fc4f6481ce1cf51a29d7cf7c56bbad"
+          }
+        },
+        {
+          "client_id": "561235653095-13nvqk7c6k03vf083de2k1fs1l4d1amh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.staffonechristian.quotesmaster",
+            "certificate_hash": "a73bacfb3ae3a1c6947833c196260fefbb0713aa"
+          }
+        },
+        {
+          "client_id": "561235653095-o824alftbrnge2absjv0b7iajvsc4puv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA77QOmyIrSX2pDe-Q22QSpGGHLCvjlq2M"
+        },
+        {
+          "current_key": "AIzaSyANGkER6sE24XpHDX9szFxxf9wOxufJV5o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561235653095-o824alftbrnge2absjv0b7iajvsc4puv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561235653095:android:8aa83f7d1b068485",
+        "android_client_info": {
+          "package_name": "com.simpleapps9.staffonechristian.nevergiveup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561235653095-o824alftbrnge2absjv0b7iajvsc4puv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA77QOmyIrSX2pDe-Q22QSpGGHLCvjlq2M"
+        },
+        {
+          "current_key": "AIzaSyANGkER6sE24XpHDX9szFxxf9wOxufJV5o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
